@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "252440068298",
+    "firebase_url": "https://locationschat.firebaseio.com",
+    "project_id": "locationschat",
+    "storage_bucket": "locationschat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252440068298:android:f00eba210423cacb",
+        "android_client_info": {
+          "package_name": "com.zaekat.locationschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252440068298-mvl23aodn0n8ilq1fi8qgdn9ipi2hfc0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zaekat.locationschat",
+            "certificate_hash": "466c1bf052b44dd7f3cd87fe21290e8a38bae374"
+          }
+        },
+        {
+          "client_id": "252440068298-bbnsrho15kl4bmho3rfc8tml8u4i1oa0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxOuxt_S3utv0Ti77tiZBDIT0KS_fBlco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252440068298-bbnsrho15kl4bmho3rfc8tml8u4i1oa0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
